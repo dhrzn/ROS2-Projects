@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+build/
+install/
+log/
+*.egg-info/
+.vscode/
+battery_client.py
+battery_server.py
+publisher_node.py
+subscriber_node.py
