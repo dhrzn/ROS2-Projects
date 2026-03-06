@@ -32,19 +32,12 @@ Ubuntu 24 (VirtualBox on Windows)
 
 
 ## ROS2 Package Structure
-my_robot_pkg/
-├── my_robot_pkg/
-│   ├── ardunio_bridge_node.py   # Reads serial data, publishes /distance, forwards commands to Arduino
-│   ├── monitor_node.py          # Subscribes to /distance, calls TriggerAlert service
-│   └── alert_server.py          # Serves TriggerAlert, publishes to /alert_command
-├── launch/
-│   └── robot_system.launch.py   # Launches all three nodes
-└── package.xml
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fd504807-b1c1-4d78-a5fc-aed8982bd675" />
 
 ## How To Run
 Prerequisites
 - ROS2 Humble installed
-- Arduino IDE with sketch uploaded to board
+- Arduino IDE with sketch uploaded to board (Robot_Guardian_Project.ino)
 - Arduino connected via USB (/dev/ttyACM0)
 - pyserial: pip install pyserial
 
