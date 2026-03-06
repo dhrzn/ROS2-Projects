@@ -62,7 +62,6 @@ Prerequisites
 - PWM enables proportional hardware response. Instead of just turning components on/off, analogWrite() lets you control intensity. Combined with Arduino's map() and constrain() functions, the hardware response scales smoothly with distance.
 
 ## Demo
-Photos and video coming soon
 ![IMG_3909](https://github.com/user-attachments/assets/ca9b78f2-19c1-430b-94a3-285ef22f81c0)
 ![IMG_3910](https://github.com/user-attachments/assets/957f9d50-4f6c-4ce5-9d85-5f84cd38afb7)
 ![IMG_3911](https://github.com/user-attachments/assets/129d65d3-6866-41a6-920a-d9eac72dddec)
