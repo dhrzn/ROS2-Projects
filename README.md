@@ -71,7 +71,9 @@ Prerequisites
 https://github.com/user-attachments/assets/2495a9f8-35b9-43ac-867a-a88d62d25d64
 
 
-Uploading IMG_3912.mov…
+## Time Logs
+<img width="884" height="530" alt="image" src="https://github.com/user-attachments/assets/75b33c7e-1cf3-446f-a1b7-b32bc6e7f8a8" />
+
 
 
 
