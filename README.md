@@ -32,7 +32,8 @@ Ubuntu 24 (VirtualBox on Windows)
 
 
 ## ROS2 Package Structure
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fd504807-b1c1-4d78-a5fc-aed8982bd675" />
+<img width="1254" height="761" alt="image" src="https://github.com/user-attachments/assets/2f70ef50-6138-408e-b09b-edfeb197f78b" />
+
 
 ## How To Run
 Prerequisites
