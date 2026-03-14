@@ -16,6 +16,7 @@ setup(
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
 	(os.path.join('share', package_name, 'launch'),glob('launch/*.launch.py')),
+    (os.path.join('share', package_name, 'urdf_practice'),glob('urdf_practice/*.urdf')),
 #basically grabs anything that ends in launch.py and
 # super useful when creating another launch file (dont need to change anything here when created) 
     ],
